@@ -1,8 +1,8 @@
-#Sales Automation Report
+# Sales Automation Report
 
 This project automates sales data analysis using python.
 
- ##Features
+ ## Features
  
 - Read sales data from CSV
 - Calculate total sales
@@ -11,13 +11,13 @@ This project automates sales data analysis using python.
 - Genreate summary report
 - create automatic chart
 
- ##Files
+ ## Files
  
 - sales_report.csv
 - summary_report.csv
 - sales_chart.png
 
- ##Technologies
+ ## Technologies
  
 - Python
 - Pandas
